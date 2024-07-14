@@ -8,6 +8,7 @@ public class PatternPrintingI {
             for (int y : x) {
                 System.out.println(y);
             }
+
             System.out.println();
         }
     }
