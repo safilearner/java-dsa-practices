@@ -1,4 +1,4 @@
-package Arrays;
+package ArrayProblems;
 
 public class SpecialSubSequences {
     public static void main(String[] args) {

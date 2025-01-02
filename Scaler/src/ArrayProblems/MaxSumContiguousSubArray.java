@@ -1,4 +1,4 @@
-package Arrays;
+package ArrayProblems;
 
 public class MaxSumContiguousSubArray {
     public static void main(String[] args) {

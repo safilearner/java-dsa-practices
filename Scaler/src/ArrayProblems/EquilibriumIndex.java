@@ -1,7 +1,6 @@
-package Arrays;
+package ArrayProblems;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class EquilibriumIndex {
     public static void main(String[] args) {

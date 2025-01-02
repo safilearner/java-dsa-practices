@@ -1,4 +1,4 @@
-package Arrays;
+package ArrayProblems;
 
 import java.util.ArrayList;
 
@@ -81,4 +81,6 @@ public class XORQueries {
         }
         return result;
     }
+
+
 }

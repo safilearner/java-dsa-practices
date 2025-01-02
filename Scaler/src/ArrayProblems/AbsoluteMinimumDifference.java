@@ -1,7 +1,6 @@
-package Arrays;
+package ArrayProblems;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class AbsoluteMinimumDifference {
     public static void main(String[] args) {
